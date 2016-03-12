@@ -18,6 +18,10 @@ function div(x,y){
 	return x/y;
 }
 
+
 function test(){
+}
+function hi(){
+
 	
 }
