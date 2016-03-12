@@ -1,6 +1,8 @@
 "default_line_ending": "LF"
 
 function add(x, y){
+	if (isNan(x)) 
+		return console.log('Input must be a number.');
 	return x+y;
 }
 
